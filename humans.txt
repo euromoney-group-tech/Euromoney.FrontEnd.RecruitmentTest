@@ -1,0 +1,16 @@
+/* TEAM */
+	UI developer: Your Name
+	Contact: you [at] yourdomain.org
+	Twitter: @???
+	LinkedIn: https://uk.linkedin.com/in/your-id-here
+	From: Your Country / Location
+
+/**
+ * Please leave us your contact details here so we can be sure we can get back in touch.
+ * If you would like to leave any notes about how you approached the task that would be good too.
+ * http://humanstxt.org/Standard.html
+ * 
+ * ** PLEASE NOTE **
+ * IF YOU SUBMIT YOUR WORK THROUGH A PUBLIC FACING SERVICE SUCH AS GITHUB PULL REQUESTS 
+ * PLEASE DON'T INCLUDE ANY SENSITIVE DATA YOU WOULDN'T WANT OTHER'S TO SEE.
+**/
