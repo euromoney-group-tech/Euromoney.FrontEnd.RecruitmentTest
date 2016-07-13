@@ -5,7 +5,7 @@ How do you code?
 The following exercise is your opportunity to show us your front-end skills.
 
 - The task is to take the attached design and code it up as a static page.
-- There is no time limit impossed. Please code up to the best of your ability.  
+- There is no time limit imposed. Please code up to the best of your ability.  
 - Build everything you see. Use what you know to build the best quality page you can!
 - We will be looking at all aspects of your end delivery. We are particularly interested in how you approach the exercise and understanding why you chose to do things a certain way.
 - The task is aimed at applicants across all skill levels. Our only expectation is that you code to your ability.
@@ -54,7 +54,7 @@ If you want to branch (named with your full name) and send us a pull request tha
 
 ## Help! I can't open the design
 
-The design are provided in various formats.
+The design is provided in various formats.
 - **Sketch** : Our favourite. If you're on Mac you can get a [free trial of Sketch App](https://www.sketchapp.com/).
 - **Zeplin** : Providing Sketch documents for developers - you might need to sign up for a trial to [access our Zeplin project](https://zpl.io/Z1UPwDU).
 - Coming back soon : ~~**Photoshop** : If you've forked out for a personal license great, otherwise get a [free trial of Photoshop Elements](http://www.adobe.com/go/tryphotoshop_elements/).~~
