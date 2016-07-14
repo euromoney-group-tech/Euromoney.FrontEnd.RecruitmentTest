@@ -57,5 +57,5 @@ If you want to branch (named with your full name) and send us a pull request tha
 The design is provided in various formats.
 - **Sketch** : Our favourite. If you're on Mac you can get a [free trial of Sketch App](https://www.sketchapp.com/).
 - **Zeplin** : Providing Sketch documents for developers - you might need to sign up for a trial to [access our Zeplin project](https://zpl.io/Z1UPwDU).
-- Coming back soon : ~~**Photoshop** : If you've forked out for a personal license great, otherwise get a [free trial of Photoshop Elements](http://www.adobe.com/go/tryphotoshop_elements/).~~
+- **Photoshop** : If you've forked out for a personal license great, otherwise get a [free trial of Photoshop Elements](http://www.adobe.com/go/tryphotoshop_elements/).
 - **PDF & PNG** : Hopefully you won't need this fallback, let us know if that's all you had to work from.
