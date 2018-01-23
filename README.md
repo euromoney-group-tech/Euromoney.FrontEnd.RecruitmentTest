@@ -2,9 +2,9 @@
 
 The following exercise is your opportunity to show us your skills.
 
-- Take the following story:
+- Take the following brief:
 -- Interpret it into a design and code it up as a static page
--- Use what you know to create the best page you can
+-- Use what you know to create the best deliverable you can
 - The task is aimed at applicants across all skills and levels. 
 -- Our only expectation is that you work to your ability
 -- UX, Design, Code... do the bits you know
@@ -25,9 +25,38 @@ How you work is your best tool, there are a few things we will be looking out fo
 - Please do not send attached zip files via email
 - If you want to branch (named with your full name) and send us a pull request that works too
 - **If there is any setup necessary please update this README.md file with a step by step guide**
-- **Please gitignore any build dependencies such as /node_modules. We will get them in the build**
+- **Please gitignore any build dependencies such as /node_modules. We will get them in the build** 
+&nbsp; 
 
 ---
+# The Brief
+
+> Present useful information to visitors in the reception area of Euromoney Institutional Investor PLC's main London office.
+
+The reception area has two display screens. The first already displays a live feed from various television news channels. The second should display information that our visitors will hopefully find useful and a welcome distraction for the short period they are waiting.
+
+Information pertinent to our visitors may also be useful to our employees. They should be able to access the same from their work laptops and mobile devices.
+
+## Display Specification
+- The display is a standard flatpanel television with a resolution of 1920 x 1080
+- The display is connected to a PC with internet connection
+- Information will be presented through a standard web browser (assume Google Chrome)
+- The front of house team will manage the PC and will be able to ensure the browser is in fullscreen mode
+
+## Requirements
+- All content must fit on-screen when presented on the reception display 
+- All content must be clear and legible from a distance
+- There should be no cost for consuming the data displayed
+- The company logo should be visible
+- This is a publicly visible screen and should present a good image of the company
+- If data is not available through loss of connection or error, the display should have a gracefull fallback mode
+
+## Considerations
+- We are looking for your recommendation as to the type of information to display
+- We are located at 8 Bouverie St, London, EC4Y 8AX
+- We would prefer if updates to the display application can be applied automatically
+- As a public face of the company we would like some certainty that updates won't be problematic, test coverage would be beneficial
 
 
 
+-end-
