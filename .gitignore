@@ -1,9 +1,12 @@
 .sass-cache
 .sass-cache*
 *.css.map
+**/.DS_Store
+.DS_Store
 .grunt
 npm-debug.log
 node_modules
 _bower_components
 bower_components
 .idea/
+.vscode
