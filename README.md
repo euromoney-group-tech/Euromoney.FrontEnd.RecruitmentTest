@@ -1,61 +1,64 @@
-Intro
-===
+# How do you UI? 
 
-How do you code?  
-The following exercise is your opportunity to show us your front-end skills.
+The following exercise is your opportunity to show us your skills.
 
-- The task is to take the attached design and code it up as a static page.
-- There is no time limit imposed. Please code up to the best of your ability.  
-- Build everything you see. Use what you know to build the best quality page you can!
-- We will be looking at all aspects of your end delivery. We are particularly interested in how you approach the exercise and understanding why you chose to do things a certain way.
-- The task is aimed at applicants across all skill levels. Our only expectation is that you code to your ability.
-
-## Task requirements
-
-- Use HTML, CSS and JavaScript best practices.
-- Build your components assuming this is a deliverable for a larger web application, so consider scalability, portability, extensibility.
-- Please take performance into consideration.
-- Please take accessibility into consideration.
-- Do not use frameworks. 
-	- We really want to get to know you and what you can do, not what comes out of a Bootstrap box.
-	- Having said that, incorporating libraries isn't a bad thing.
-- Make sure it works cross-browser.
-	- Should work great on IE10, IE11, Edge (latest version), Chrome (latest version), Safari ( latest version) and FireFox (latest version).
-	- Must be usable and look OK on IE8 and IE9. We don't expect it to be beautiful.
-	- Should work on most common mobile and tablet devices for iOS and Android.
-- It needs to be platform agnostic. If it's hooked into a particular IDE or OS or needs complicated config we aren't going to be spending time to set it up.
-- Things we use (AKA brownie points).
-	- SCSS
-	- Jquery
-	- Grunt
-	- Bower
-	- NPM
-	- Express
+- Take the following brief:
+-- Interpret it into a design and code it up
+-- Use what you know to create the best deliverable you can
+- The task is aimed at applicants across all skills and levels: 
+-- Our only expectation is that you work to your ability
+-- UX, Design, Code... do the bits you know
+-- There is no time limit, we really want to get to know you and what you can do
 
 ## What we are looking for
 
-How you code is your best tool, there are a few things we will be looking out for though.
+How you work is your best tool, there are a few things we will be looking out for though. 
 
-- Explain/document your coding decisions. Inline commenting is your friend for this.
-- We've deliberately not provided interaction states or layouts for mobile and other viewports. Consider how you can evolve the design.
-- We don't just want to see the output. If you're using pre-processors, build tools etc we want to see all of that because that's a skill too, so make sure it's in your submission.
+- We are particularly interested in how you approach the exercise and understanding why you chose to do things a certain way. Inline commenting is your friend for this.
+- We don't just want to see the output. If you use pre-processors, build tools etc we want to see all of that because that's a skill too, so make sure it's in your submission
+- It needs to be platform agnostic. If it's hooked into a particular IDE or OS or needs complicated config we aren't going to be spending time to set it up
+- For design work we use [Sketch](https://www.sketchapp.com/). A starter file has been provided in the *_assets* folder along with a copy of our logo
 
 ## Submitting your work
 
-Send us a link to your code from a GitHub fork, Dropbox, Skydrive ... whatever.  
-Please do not send attached zip files via email.  
-If you want to branch (named with your full name) and send us a pull request that works too.
+- Send us a link to your work from GitHub, Bitbucket, Dropbox ... whatever
+- Please do not send attached zip files via email
+- If you want to branch (named with your full name) and send us a pull request that works too
+- **If there is any setup necessary please update this README.md file with a step by step guide**
+- **Please gitignore any build dependencies such as /node_modules. We will get them in the build** 
+&nbsp; 
 
-**If there is any setup necessary please update this README.md file with a step by step guide.**
-
-**Please gitignore any build dependencies such as /node_modules. We will get them in the build.**
-  
 ---
+# The Brief
 
-## Help! I can't open the design
+> Present useful information to visitors in the reception area of Euromoney Institutional Investor PLC's main London office.
 
-The design is provided in various formats.
-- **Sketch** : Our favourite. If you're on Mac you can get a [free trial of Sketch App](https://www.sketchapp.com/).
-- **Zeplin** : Providing Sketch documents for developers - you might need to sign up for a trial to [access our Zeplin project](https://zpl.io/Z1UPwDU).
-- **Photoshop** : If you've forked out for a personal license great, otherwise get a [free trial of Photoshop Elements](http://www.adobe.com/go/tryphotoshop_elements/).
-- **PDF & PNG** : Hopefully you won't need this fallback, let us know if that's all you had to work from.
+The reception area has two display screens. The first already displays a live feed from television news channels. The second should display information that our visitors will hopefully find useful and a welcome distraction for the short period they are waiting.
+
+Information pertinent to our visitors may also be useful to our employees. They should be able to access the same from their work laptops and mobile devices.
+
+## Display Specification
+- The display is a standard flatpanel television with a resolution of 1920 x 1080
+- The display is connected to a PC with internet connection
+- Information will be presented through a standard web browser (assume Google Chrome)
+- The front of house team will manage the PC and will be able to ensure the browser is in fullscreen mode
+
+## Requirements
+- When presented on the reception display:
+-- All content must fit on-screen  
+-- All content must be clear and legible from a distance
+- There must be no cost for consuming the data displayed
+- The company logo must be visible
+- This is a publicly visible screen and must present a good image of the company
+- If data is not available through loss of connection or error, the display should have a gracefull fallback mode
+- The application must be able to function without any manual intervention after it's initial load
+
+## Considerations
+- We are looking for your recommendation as to the type of information to display.  What would you like to see if you were waiting in reception? 
+- We are located at 8 Bouverie St, London, EC4Y 8AX
+- We would prefer if updates to the display application did not require a manual refresh
+- As a public face of the company we would like some certainty that updates won't be problematic, test coverage would be beneficial
+
+
+
+-end-
