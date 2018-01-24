@@ -2,13 +2,13 @@
 
 The following exercise is your opportunity to show us your skills.
 
-- Take the following brief:
--- Interpret it into a design and code it up
--- Use what you know to create the best deliverable you can
-- The task is aimed at applicants across all skills and levels: 
--- Our only expectation is that you work to your ability
--- UX, Design, Code... do the bits you know
--- There is no time limit, we really want to get to know you and what you can do
+- Take the following brief: 
+    - Interpret it into a design and code it up
+    - Use what you know to create the best deliverable you can
+- The task is aimed at applicants across all skills and levels:  
+    - Our only expectation is that you work to your ability
+    - UX, Design, Code... do the bits you know
+    - There is no time limit, we really want to get to know you and what you can do
 
 ## What we are looking for
 
@@ -44,9 +44,9 @@ Information pertinent to our visitors may also be useful to our employees. They 
 - The front of house team will manage the PC and will be able to ensure the browser is in fullscreen mode
 
 ## Requirements
-- When presented on the reception display:
--- All content must fit on-screen  
--- All content must be clear and legible from a distance
+- When presented on the reception display: 
+    - All content must fit on-screen  
+    - All content must be clear and legible from a distance
 - There must be no cost for consuming the data displayed
 - The company logo must be visible
 - This is a publicly visible screen and must present a good image of the company
